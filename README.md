@@ -1,6 +1,7 @@
-# Shivam Mahajan ![Profile views](https://komarev.com/ghpvc/?username=smresponsibilities&color=dc4056&style=flat-square)
+# Shivam Mahajan [![Profile views](https://hits.sh/github.com/smresponsibilities.svg?style=flat-square&label=Profile%20views&color=dc4056&extraCount=1974)](https://github.com/smresponsibilities)
 
-Backend Developer · AI · Data Systems · Android 
+Backend Developer · AI · Data Systems · Android
+
 I work mostly on backend systems, data pipelines, and Android apps using Python, Java, Kotlin, and JavaScript.
 
 Previously a Technology Apprentice at Morgan Stanley, where I worked on a CIAM warehouse processing 5M+ events. Currently building Productivity Caller, an Android app that calls you when a task is due.
