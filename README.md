@@ -21,7 +21,7 @@ Click the preview to explore the portfolio. Choose a generation:
 
 [Gen I](https://shivammahajan.com/?pokedexgen=red#device-heading) · [Gen II](https://shivammahajan.com/?pokedexgen=gold#device-heading) · [Gen III](https://shivammahajan.com/?pokedexgen=ruby#device-heading) · [Gen IV](https://shivammahajan.com/?pokedexgen=diamond#device-heading) · [Gen V](https://shivammahajan.com/?pokedexgen=black#device-heading) · [Gen VI](https://shivammahajan.com/?pokedexgen=x#device-heading) · [Gen VII](https://shivammahajan.com/?pokedexgen=sun-moon#device-heading) · [Gen VIII](https://shivammahajan.com/?pokedexgen=sword-shield#device-heading) · [Gen IX](https://shivammahajan.com/?pokedexgen=scarlet-violet#device-heading)
 
-[Portfolio](https://shivammahajan.com) · [Resume](https://shivammahajan.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/mahajanshivam/) · [Email](mailto:shivammahajan.mail@gmail.com)
+[Portfolio](https://shivammahajan.com) · [Resume](https://shivammahajan.com/resume/) · [LinkedIn](https://www.linkedin.com/in/mahajanshivam/) · [Kaggle](https://www.kaggle.com/mahajanshivam) · [Hugging Face](https://huggingface.co/mahajanshivam) · [Dev.to](https://dev.to/shivammahajan) · [Email](mailto:shivammahajan.mail@gmail.com)
 
 ### Tech stack
 
@@ -31,12 +31,12 @@ Also working with PySpark, Snowflake, SQL, Jetpack Compose, and Jenkins.
 
 ### Projects
 
-- [Productivity Caller](https://drive.google.com/file/d/1O9mQD-Qeo7GR40SdG440pdqSM8NdXV_K/view?usp=sharing) · Phone-call reminders, natural-language task entry, 425+ tests.
+- [Productivity Caller](https://shivammahajan.com/projects/productivity-caller/) · Native Android reminder app with automated incoming calls, 80+ regex NLP parser, 425+ tests. ([Demo](https://drive.google.com/file/d/1O9mQD-Qeo7GR40SdG440pdqSM8NdXV_K/view?usp=sharing))
 - [Chaincode](https://github.com/smresponsibilities/Chain-Code) · Code-to-NFT platform. 3rd of 200+ teams at HackIndia Regionals.
 - [QuizDeck](https://github.com/smresponsibilities/QuizDeck) · Multiplayer quizzes. Tested with 500 concurrent users.
 
 ### Open source & beyond
 
-Contributed to core MediaWiki through Wikimedia's Road to Wiki cohort. Co-founded [1001 Days of Code](https://github.com/smresponsibilities/1001daysofcode), now continuing to 2,002 days. Solved 2,600+ DSA problems.
+Contributed to core MediaWiki through Wikimedia's Road to Wiki cohort. Co-founded [1001 Days of Code](https://github.com/smresponsibilities/1001daysofcode), now continuing to 2,002 days. Solved 2,670+ DSA problems.
 
 B.E. Computer Science, Chitkara University · 9.35/10 CGPA.
